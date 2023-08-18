@@ -1,3 +1,3 @@
-theme: ROBLOX
+theme:ROBLOX
 title: HeaToli_24k's Profile
 description: HeaToli_24k is one of the millions playing, creating and exploring the endless possibilities of Roblox. Join HeaToli_24k on Roblox and explore together! Go ahead, dig through my profile, you'll only find the pain, sorrow and smart-ase remarks of a lost cause. I'm not particularly friendly, but that doesn't mean I hate people. I'm just reluctant ...
